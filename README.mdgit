@@ -1,0 +1,1 @@
+"# mini-mercado"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Argus98/mini-mercado.gitgit push -u origin main
